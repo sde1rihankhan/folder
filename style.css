@@ -1,0 +1,170 @@
+body{
+    background-color: black;
+    margin: 0px 60px 0px 25%;
+}
+.contant1{
+    height: 125vh;
+    width: 70%;
+    background-color: white;
+}
+.image1{
+    border-radius: 100%;
+    height: 75px;
+    width: 75px;
+    padding: 15px 20px 15px 20px;
+}
+.contant4{
+    font-size: 25px;
+    margin: 25px 0px 4px 0px;
+}
+.contant5{
+    margin: 0px;
+    font-size: 20px;
+}
+.contant6{
+    font-size: 15px;
+    margin: 10px 0px 0px 0px;
+}
+.contant8{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+}
+.contant9{
+    padding: 0px 20px;
+ }
+ .contant10{
+    font-size: 15px;
+    margin: 4px 0px 0px 0px;
+ }
+ .contant12{
+    display: flex;
+    width: 100%;
+ }
+ .contant11{
+    margin: 4px;
+    font-size: 15;
+ }
+ .hr1{
+    border-color: orange;
+ }
+ 
+ .contant7{
+    display: flex;
+    justify-content: space-between;
+ }
+ .contant13{
+    /* font-size: 20px; */
+    margin: 16px 25px 0px 0px;
+ }
+ .contant14{
+    width: 135px;
+    margin: 15px 25px 0px 35px;
+    font-size: 20px;
+    color: orange;
+ }
+ .hr2{
+    margin: 20px 0px 0px;
+ }
+ .contant16{
+    width: 148px;
+    margin: 20px 14px 0px 35px;
+    font-size: 20px;
+    color: orange;
+ }
+ .contant17{
+     display: flex;
+}
+.contant18{
+    font-size: 20px;
+    margin: 20px 0px 0px;
+}
+.contant19{
+    font-size: 14px ;
+    margin: 0px;
+}
+.contant20{
+    margin: 0px;
+}
+.contant21{
+    font-size: 20px;
+    margin: 20px 0px 0px;
+}
+.contant22{
+    margin: 0px;
+    font-size: 14px;
+}
+.contant23{
+    margin: 0px;
+}
+.contant24{
+    font-size: 20px;
+    margin: 20px 0px 0px;
+}
+.contant25{
+    margin: 0px;
+}
+.contant26{
+    margin: 0px;
+}
+.contant27{
+    margin: 20px 10px 0px 40px;
+    font-size: 20px;
+    width: 135px;
+    color: orange;
+}
+.contant28{
+    display: flex;
+}
+.contant30{
+    display: flex;
+    gap: 120px;
+}.contant29{
+    margin: 16px 0px 0px;
+}
+.contant31{
+    margin: 0px;
+}
+.contant32{
+    margin: 0px;
+}
+.contant33{
+    margin: 16px 0px 0px;
+}.contant34{
+    margin: 0px;
+}
+.contant35{
+    margin: 0px;
+}
+.contant36{
+    margin: 16px 0px 0px;
+}
+.contant37{
+    margin: 0px;
+}
+.contant38{
+    margin: 20px 10px 0px 40px;
+    font-size: 20px;
+    width: 135px;;
+    color: orange;
+}
+.contant29{
+    display: flex;
+}
+.contant40{
+    font-size: 20px;
+    margin:20px 0px  0px;
+}
+.contant41{
+    font-size: 10px;
+    margin: 0px 0px 0px;
+}
+.contant42{
+    margin: 10px 0px 0px 0px;
+}
+.contant43{
+    margin:0px 25px 0px 0px ;
+}
+.contant44{
+    margin: 0px 35px 0px 0px;
+}
